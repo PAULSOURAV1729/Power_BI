@@ -1,0 +1,4 @@
+# Sales_Performance_Dashboard
+# Description: In this project I have analysed the sales performance for different products and analysed the profit on monthly basis.
+The sum of profit, sales and quantity sold were shown in this project. Here I have used Bar chart, Donut chart, Stacked area chart and for visualization of
+quantity sold in specific region I have used Map visualizer. And predicted the sales for next 25 days using time series.
